@@ -1,0 +1,11 @@
+﻿store_id,store_name,address,city,state,country
+1,Best Buy,123 Tech Lane,New York,NY,USA
+2,Apple Store,456 Innovation Blvd,Los Angeles,CA,USA
+3,Walmart,789 Budget St,Chicago,IL,USA
+4,Target,101 Everyday Rd,Houston,TX,USA
+5,Ikea,202 Furniture Ave,Phoenix,AZ,USA
+6,Costco,305 Wholesale Dr,San Francisco,CA,USA
+7,Home Depot,180 Tool St,Boston,MA,USA
+8,Kroger,333 Grocery Ln,Miami,FL,USA
+9,Staples,910 Office Supply Rd,Seattle,WA,USA
+10,CVS Pharmacy,455 Health Way,Denver,CO,USA

@@ -1,3 +1,5 @@
+create database RetailProject
+
 use RetailProject
 
 -- Customer Dimension

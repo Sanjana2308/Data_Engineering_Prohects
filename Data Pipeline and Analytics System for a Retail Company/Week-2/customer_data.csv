@@ -1,0 +1,11 @@
+﻿customer_id,customer_name,email,phone_number,location,registration_date
+1,John Doe,johndoe@example.com,1234567890,New York,2022-01-15
+2,Jane Smith,janesmith@example.com,0987654321,Los Angeles,2022-03-22
+3,Alice Brown,aliceb@example.com,4567891230,Chicago,2022-04-18
+4,Bob Johnson,bobjohnson@example.com,7890123456,Houston,2022-06-05
+5,Charlie Davis,charlied@example.com,3216549870,Phoenix,2022-07-10
+6,Emily White,emilyw@example.com,2345678901,San Francisco,2022-08-22
+7,Daniel Green,danielg@example.com,5678901234,Boston,2022-09-30
+8,Sarah Black,sarahb@example.com,8901234567,Miami,2022-11-03
+9,Michael Grey,michaelg@example.com,1230987654,Denver,2022-12-15
+10,Sophia Blue,sophiab@example.com,9087654321,Seattle,2023-01-05
